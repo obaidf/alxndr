@@ -4,3 +4,5 @@ A bot named alxndr that plays Box Risk (BRISK!) that David Lee, Jeremy Press, an
 
 Unlike its namesake, it won third place in the 2015 Box Intern BRISK Competition.
 
+http://www.briskchallenge.com/
+
